@@ -1,0 +1,13 @@
+D:\Promact Infotech\2020\13AUG\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.exe
+D:\Promact Infotech\2020\13AUG\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.deps.json
+D:\Promact Infotech\2020\13AUG\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.runtimeconfig.json
+D:\Promact Infotech\2020\13AUG\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.runtimeconfig.dev.json
+D:\Promact Infotech\2020\13AUG\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.dll
+D:\Promact Infotech\2020\13AUG\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.pdb
+D:\Promact Infotech\2020\13AUG\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.AssemblyInfoInputs.cache
+D:\Promact Infotech\2020\13AUG\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.AssemblyInfo.cs
+D:\Promact Infotech\2020\13AUG\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.csproj.CoreCompileInputs.cache
+D:\Promact Infotech\2020\13AUG\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.dll
+D:\Promact Infotech\2020\13AUG\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.pdb
+D:\Promact Infotech\2020\13AUG\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.genruntimeconfig.cache
+D:\Promact Infotech\2020\13AUG\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.csprojAssemblyReference.cache
